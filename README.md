@@ -12,6 +12,10 @@ pip install causal-conv1d>=1.4.0
 pip install mamba-ssm
 ```
 
+## Dataset
+1. ISPRS Potsdam and Vaihingen
+2. GeoNrw [link](https://github.com/gbaier/geonrw)
+
 ## Cite
 If our code is helpful, please cite:
 
